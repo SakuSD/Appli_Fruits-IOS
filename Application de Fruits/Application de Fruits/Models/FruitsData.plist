@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+
+        <!-- 1. BLUEBERRY -->
+        <dict>
+            <key>title</key><string>Blueberry</string>
+            <key>headline</key><string>Sweet, nutritious and extremely popular worldwide.</string>
+            <key>image</key><string>blueberry</string>
+            <key>colorLight</key><string>ColorBlueberryLight</string>
+            <key>colorDark</key><string>ColorBlueberryDark</string>
+            <key>description</key><string>Blueberries are small round berries packed with antioxidants. They are native to North America and are widely consumed fresh or processed.</string>
+            <key>nutrition</key>
+            <array>
+                <string>57 kcal</string>
+                <string>9.96 g carbs</string>
+                <string>0.3 g fat</string>
+                <string>0.7 g protein</string>
+                <string>Vitamin C, K</string>
+                <string>Manganese</string>
+            </array>
+        </dict>
+
+        <!-- 2. STRAWBERRY -->
+        <dict>
+            <key>title</key><string>Strawberry</string>
+            <key>headline</key><string>Juicy red fruit loved for its sweetness.</string>
+            <key>image</key><string>strawberry</string>
+            <key>colorLight</key><string>ColorStrawberryLight</string>
+            <key>colorDark</key><string>ColorStrawberryDark</string>
+            <key>description</key><string>Strawberries are bright red, juicy, and sweet. They are an excellent source of vitamin C and manganese.</string>
+            <key>nutrition</key>
+            <array>
+                <string>33 kcal</string>
+                <string>4.9 g carbs</string>
+                <string>0.3 g fat</string>
+                <string>0.6 g protein</string>
+                <string>Vitamin C</string>
+                <string>Manganese</string>
+            </array>
+        </dict>
+
+        <!-- 3. LEMON -->
+        <dict>
+            <key>title</key><string>Lemon</string>
+            <key>headline</key><string>A sour citrus fruit full of vitamin C.</string>
+            <key>image</key><string>lemon</string>
+            <key>colorLight</key><string>ColorLemonLight</string>
+            <key>colorDark</key><string>ColorLemonDark</string>
+            <key>description</key><string>Lemons are citrus fruits used worldwide for juice, cooking, and beverages.</string>
+            <key>nutrition</key>
+            <array>
+                <string>29 kcal</string>
+                <string>2.5 g carbs</string>
+                <string>0.3 g fat</string>
+                <string>1.1 g protein</string>
+                <string>Vitamin C</string>
+                <string>Potassium</string>
+            </array>
+        </dict>
+
+        <!-- 4. APPLE -->
+        <dict>
+            <key>title</key><string>Apple</string>
+            <key>headline</key><string>Crisp and refreshing fruit eaten worldwide.</string>
+            <key>image</key><string>apple</string>
+            <key>colorLight</key><string>ColorAppleLight</string>
+            <key>colorDark</key><string>ColorAppleDark</string>
+            <key>description</key><string>Apples are one of the most popular fruits. They are high in fiber and vitamin C.</string>
+            <key>nutrition</key>
+            <array>
+                <string>52 kcal</string>
+                <string>14 g carbs</string>
+                <string>0.2 g fat</string>
+                <string>0.3 g protein</string>
+                <string>Vitamin C</string>
+                <string>Potassium</string>
+            </array>
+        </dict>
+
+        <!-- 5. MANGO -->
+        <dict>
+            <key>title</key><string>Mango</string>
+            <key>headline</key><string>Tropical fruit known as the king of fruits.</string>
+            <key>image</key><string>mango</string>
+            <key>colorLight</key><string>ColorMangoLight</string>
+            <key>colorDark</key><string>ColorMangoDark</string>
+            <key>description</key><string>Mangoes are juicy stone fruits rich in vitamins and antioxidants.</string>
+            <key>nutrition</key>
+            <array>
+                <string>60 kcal</string>
+                <string>15 g carbs</string>
+                <string>0.4 g fat</string>
+                <string>0.8 g protein</string>
+                <string>Vitamin A, C</string>
+                <string>Folate</string>
+            </array>
+        </dict>
+
+        <!-- 6. CHERRY -->
+        <dict>
+            <key>title</key><string>Cherry</string>
+            <key>headline</key><string>Small stone fruit that comes in a variety of colors and flavors.</string>
+            <key>image</key><string>cherry</string>
+            <key>colorLight</key><string>ColorCherryLight</string>
+            <key>colorDark</key><string>ColorCherryDark</string>
+            <key>description</key><string>Cherries are rich in antioxidants and anti-inflammatory compounds.</string>
+            <key>nutrition</key>
+            <array>
+                <string>63 kcal</string>
+                <string>16 g carbs</string>
+                <string>0.2 g fat</string>
+                <string>1 g protein</string>
+                <string>Vitamin C</string>
+                <string>Potassium</string>
+            </array>
+        </dict>
+
+        <!-- 7. PEAR -->
+        <dict>
+            <key>title</key><string>Pear</string>
+            <key>headline</key><string>Sweet fruit with a soft texture.</string>
+            <key>image</key><string>pear</string>
+            <key>colorLight</key><string>ColorPearLight</string>
+            <key>colorDark</key><string>ColorPearDark</string>
+            <key>description</key><string>Pears are sweet fruits high in fiber and antioxidants.</string>
+            <key>nutrition</key>
+            <array>
+                <string>57 kcal</string>
+                <string>15 g carbs</string>
+                <string>0.1 g fat</string>
+                <string>0.4 g protein</string>
+                <string>Vitamin C</string>
+                <string>Fiber</string>
+            </array>
+        </dict>
+
+        <!-- 8. POMEGRANATE -->
+        <dict>
+            <key>title</key><string>Pomegranate</string>
+            <key>headline</key><string>Sweet, bell-shaped fruits that have been enjoyed since ancient times.</string>
+            <key>image</key><string>pomegranate</string>
+            <key>colorLight</key><string>ColorPomegranateLight</string>
+            <key>colorDark</key><string>ColorPomegranateDark</string>
+            <key>description</key><string>The pomegranate (Punica granatum) is a deciduous shrub cultivated for its seeds and juice. It originated from Iran to northern India and is now grown in many Mediterranean climates.</string>
+            <key>nutrition</key>
+            <array>
+                <string>346 kJ (83 kcal)</string>
+                <string>13.67 g carbs</string>
+                <string>1.17 g fat</string>
+                <string>1.67 g protein</string>
+                <string>B1, B2, B3, B5, B6, B9, C, E, K</string>
+                <string>Calcium, Iron, Magnesium, Manganese, Phosphorus, Potassium, Sodium, Zinc</string>
+            </array>
+        </dict>
+
+        <!-- 9. LIME -->
+        <dict>
+            <key>title</key><string>Lime</string>
+            <key>headline</key><string>Sour, round, and bright green citrus fruits.</string>
+            <key>image</key><string>lime</string>
+            <key>colorLight</key><string>ColorLimeLight</string>
+            <key>colorDark</key><string>ColorLimeDark</string>
+            <key>description</key><string>Limes are citrus fruits rich in vitamin C, commonly used for flavoring food, drinks, pickles, and desserts.</string>
+            <key>nutrition</key>
+            <array>
+                <string>126 kJ (30 kcal)</string>
+                <string>1.7 g carbs</string>
+                <string>0.2 g fat</string>
+                <string>0.7 g protein</string>
+                <string>B1, B2, B3, B5, B6, B9, C</string>
+                <string>Calcium, Iron, Magnesium, Phosphorus, Potassium, Sodium</string>
+            </array>
+        </dict>
+
+        <!-- 10. WATERMELON -->
+        <dict>
+            <key>title</key><string>Watermelon</string>
+            <key>headline</key><string>Large, juicy fruit with a hard rind and sweet, red flesh.</string>
+            <key>image</key><string>watermelon</string>
+            <key>colorLight</key><string>ColorWatermelonLight</string>
+            <key>colorDark</key><string>ColorWatermelonDark</string>
+            <key>description</key><string>Watermelon (Citrullus lanatus) is a vine-like plant with large, sweet, and juicy fruits. Cultivated worldwide, it can be eaten fresh, pickled, or as juice.</string>
+            <key>nutrition</key>
+            <array>
+                <string>127 kJ (30 kcal)</string>
+                <string>6.2 g carbs</string>
+                <string>0.15 g fat</string>
+                <string>0.61 g protein</string>
+                <string>A, B1, B2, B3, B5, B6, C</string>
+                <string>Calcium, Iron, Magnesium, Manganese, Phosphorus, Potassium, Sodium, Zinc</string>
+            </array>
+        </dict>
+
+        <!-- 11. GRAPEFRUIT -->
+        <dict>
+            <key>title</key><string>Grapefruit</string>
+            <key>headline</key><string>Large citrus fruit with a tangy and slightly bitter taste.</string>
+            <key>image</key><string>grapefruit</string>
+            <key>colorLight</key><string>ColorGrapefruitLight</string>
+            <key>colorDark</key><string>ColorGrapefruitDark</string>
+            <key>description</key><string>Grapefruits are citrus fruits known for their high vitamin C content and refreshing taste. They are often eaten fresh or juiced.</string>
+            <key>nutrition</key>
+            <array>
+                <string>42 kcal</string>
+                <string>10.7 g carbs</string>
+                <string>0.1 g fat</string>
+                <string>0.8 g protein</string>
+                <string>Vitamin C, A</string>
+                <string>Potassium</string>
+            </array>
+        </dict>
+
+        <!-- 12. GOOSEBERRY -->
+        <dict>
+            <key>title</key><string>Gooseberry</string>
+            <key>headline</key><string>Small, tart berries that are highly nutritious.</string>
+            <key>image</key><string>gooseberry</string>
+            <key>colorLight</key><string>ColorGooseberryLight</string>
+            <key>colorDark</key><string>ColorGooseberryDark</string>
+            <key>description</key><string>Gooseberries are small, round fruits rich in vitamin C and antioxidants. They can be eaten fresh, cooked, or used in jams and desserts.</string>
+            <key>nutrition</key>
+            <array>
+                <string>44 kcal</string>
+                <string>10 g carbs</string>
+                <string>0.6 g fat</string>
+                <string>1 g protein</string>
+                <string>Vitamin C, A</string>
+                <string>Calcium, Iron</string>
+            </array>
+        </dict>
+
+        <!-- 13. PLUM -->
+        <dict>
+            <key>title</key><string>Plum</string>
+            <key>headline</key><string>Juicy stone fruit with a sweet to tart flavor.</string>
+            <key>image</key><string>plum</string>
+            <key>colorLight</key><string>ColorPlumLight</string>
+            <key>colorDark</key><string>ColorPlumDark</string>
+            <key>description</key><string>Plums are soft, round fruits with smooth skin and sweet flesh. They are high in antioxidants and can be eaten fresh, dried (prunes), or cooked.</string>
+            <key>nutrition</key>
+            <array>
+                <string>46 kcal</string>
+                <string>11.4 g carbs</string>
+                <string>0.3 g fat</string>
+                <string>0.7 g protein</string>
+                <string>Vitamin C, K</string>
+                <string>Potassium, Fiber</string>
+            </array>
+        </dict>
+
+    </array>
+</plist>
